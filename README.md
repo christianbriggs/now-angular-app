@@ -1,4 +1,4 @@
-# Now Angular App Test
+# Test of Angular with Now v2.0
 
 Read [the original article on Medium](https://medium.com/bratislava-angular/now-2-0-and-angular-single-page-apps-fa55a797c300).
 
